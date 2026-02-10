@@ -20,7 +20,7 @@ The annotated corpus (output_markup.json) includes 758 complete dialogues compri
 The dataset exhibits broad thematic diversity, with family & partner relationships representing 21.6% of dialogues, personal crises & self-esteem at 15.5%, depression & anxiety disorders at 8.0%, and social adaptation & conflicts at 8.5%, plus 12+ other categories. Analysis of emotional tone in client messages reveals a distribution dominated by neutral expressions (52.3%), followed by sadness (22.4%), fear (8.1%), anger (4.9%), joy (4.9%), contempt (3.7%), disgust (2.2%), and surprise (1.6%). This distribution aligns with patterns observed in comparable mental health datasets, affirming the benchmark's representativeness for psycholinguistic analysis.
 
 # Usage
-To benchmark LLMs on emotional segmentation, use **emotion_segmentation_benchmark.py** with the command: python emotion_segmentation_benchmark.py 
+To benchmark LLMs on emotional segmentation, use **emotion_segmentation_benchmark.py** with the command:
 ```
 python emotion_segmentation_benchmark.py
 --model <your_model>
