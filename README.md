@@ -1,4 +1,4 @@
-# Psychology-Benchmark-for-Evaluating-LLM-Performance
+# Psychology Benchmark for Evaluating LLM Performance
 # Overview
 PsychDialogBench is a specialized benchmark designed to evaluate the ability of Large Language Models (LLMs) to analyze psychological support dialogues in a manner aligned with expert human annotations. This project addresses the critical gap in existing NLP benchmarks, which often lack the depth, clinical relevance, and expert validation required for authentic psychological counseling scenarios.
 
